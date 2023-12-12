@@ -1,0 +1,2 @@
+# Business_intelligence-Analysis-on-General-health
+OUTCOME VARIABLE: GENERAL HEALTH DATASET: EUROPEAN QUALITY OF LIFE SURVEY 2007
